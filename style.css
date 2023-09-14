@@ -1,1 +1,7 @@
 body {font-family: roboto, sans-serif;}
+body {
+      background-image: url('https://github.com/InstitutNationalduCancer/OSIRIS_OFFICIEL/blob/main/Images/2732-french-national-cancer-institute-inca.jpg');
+      background-size: cover; 
+      background-repeat: no-repeat; 
+      background-attachment: fixed; 
+    }
